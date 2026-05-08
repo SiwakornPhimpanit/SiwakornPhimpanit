@@ -49,7 +49,7 @@
 ## ⚙️ Backend
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,php,python" />
+<img src="https://skillicons.dev/icons?i=nodejs,php,python,java" />
 </p>
 
 ---
