@@ -61,6 +61,9 @@ Frontend & Backend Developer | Programmer | Creator
 <img src="https://skillicons.dev/icons?i=discord" />
 </a>
 </p>
+<a href="https://discord.com/users/SNK001">
+<img src="https://img.magnific.com/free-vector/threads-app-logo-icon-isolated-white-background_1017-45264.jpg?t=st=1778261959~exp=1778265559~hmac=a97f8c402f262e331338dbee61e3ca9cf7f602cce640471a833a6c2b17941f1f&w=1480" />
+</a>
 
 ---
 
