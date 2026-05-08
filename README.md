@@ -1,0 +1,106 @@
+<h1 align="center">Hi 👋, I'm Siwakorn Phimpanit</h1>
+
+<h3 align="center">
+Frontend & Backend Developer | Programmer | Creator
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=8B0000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile;Programmer+from+Thailand;Frontend+%26+Backend+Developer;Always+learning+new+things" alt="Typing SVG" />
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🌍 Based in Kalasin, Thailand
+- 💻 Passionate about Frontend & Backend Development
+- 🧠 Currently learning:
+  - Python
+  - TypeScript
+  - JavaScript
+  - React
+  - Node.js
+  - PHP
+  - C++
+  - Golang
+  - Dart
+
+- ✉️ Contact:
+  **phimpanitsiwakorn@gmail.com**
+
+- ⚡ Quote:
+> "Stay Hungry, Stay Foolish." – Steve Jobs
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,vite,nodejs,php,cpp,go,dart,html,css,bootstrap,tailwind,docker,linux,ubuntu,vscode,figma,git" />
+
+</p>
+
+---
+
+# 🌐 Socials
+
+<p align="center">
+<a href="https://github.com/SiwakornPhimpanit">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://www.facebook.com/siwakorn.phimpanit">
+<img src="https://skillicons.dev/icons?i=facebook" />
+</a>
+
+<a href="https://discord.com/users/SNK001">
+<img src="https://skillicons.dev/icons?i=discord" />
+</a>
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SiwakornPhimpanit&show_icons=true&theme=radical" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiwakornPhimpanit&layout=compact&theme=radical" />
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=SiwakornPhimpanit&theme=radical&hide_border=true" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=SiwakornPhimpanit&theme=radical&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SiwakornPhimpanit&theme=react-dark" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SiwakornPhimpanit&label=Profile%20Views&color=8B0000&style=for-the-badge" />
+</p>
+
+---
+
+<p align="center">
+✨ Thank you for visiting my profile ✨
+</p>
