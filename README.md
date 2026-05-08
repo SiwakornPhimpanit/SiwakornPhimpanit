@@ -54,6 +54,9 @@ Frontend & Backend Developer | Programmer | Creator
 <img height="50em" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" />
 </a>
 
+<a href="https://www.facebook.com/siwakorn.phimpanit">
+<img height="50em" src="https://img.magnific.com/free-vector/instagram-icon_1057-2227.jpg?t=st=1778261752~exp=1778265352~hmac=dc77c0ed89c570fabb162f5dd4f7cfc964bc6ad6117a9e7e8f39b389836be0ed&w=1480" />
+</a>
 <a href="https://discord.com/users/SNK001">
 <img src="https://skillicons.dev/icons?i=discord" />
 </a>
