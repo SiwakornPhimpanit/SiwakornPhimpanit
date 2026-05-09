@@ -30,7 +30,7 @@
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,php,cpp,c" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,php,cpp,c,java" />
 
 </p>
 
@@ -41,7 +41,7 @@
 ## 💻 Frontend
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap,html,css,js,ts" />
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap,html,css,js,ts,nextjs,nodejs" />
 </p>
 
 ---
@@ -49,7 +49,7 @@
 ## ⚙️ Backend
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,php,python,java" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,php,cpp,c,java" />
 </p>
 
 ---
@@ -57,20 +57,19 @@
 ## 🧰 Tools & Platforms
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=docker,linux,ubuntu,vscode,git,github,figma" />
+<img src="https://skillicons.dev/icons?i=docker,linux,ubuntu,vscode,git,github," />
 </p>
 
 ---
 
 ## 🎨 Creative Tools
 
+<img src="https://skillicons.dev/icons?i=ps,ai,ae,pr,figma" />
+
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=ps,ai,ae,pr" />
-
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
 
----
 
 
 
@@ -104,8 +103,20 @@
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
-<a href="mailto:phimpanitsiwakorn@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://instagram.com/YOUR_INSTAGRAM">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.threads.net/@YOUR_THREADS">
+<img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white"/>
+</a>
+
+<a href="https://line.me/ti/p/YOUR_LINE_ID">
+<img src="https://img.shields.io/badge/LINE-00C300?style=for-the-badge&logo=line&logoColor=white"/>
+</a>
+
+<a href="https://www.tiktok.com/@YOUR_TIKTOK">
+<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
 </a>
 
 </div>
