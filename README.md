@@ -56,8 +56,6 @@
 
 ## 🛢️ Database
 
-## 🗄️ Database
-
 <p align="left">
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase" />
 </p>
