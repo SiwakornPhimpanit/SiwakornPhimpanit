@@ -125,6 +125,6 @@
 
 <div align="center">
 
-### ✨ "Code is not just logic — it's creativity." ✨
+ ✨ Thank you and for following ✨
 
 </div>
