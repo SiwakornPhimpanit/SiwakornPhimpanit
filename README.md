@@ -6,7 +6,7 @@
 
 <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"/>
 
-# Hi, I'm Siwakorn Phimpanit
+# Hi, I'm Siwakorn Phimpanit👨🏻‍💻💻
 
 ### Software Developer • Frontend & Backend • Creator
 
@@ -38,7 +38,7 @@
 
 # 🛠️ Tech Stack
 
-## 💻 Frontend
+## 👨🏻‍💻💻🌐 Frontend
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap,html,css,js,ts,nextjs,nodejs" />
@@ -46,7 +46,7 @@
 
 ---
 
-## 🖥⌨🖱 Backend
+## 👨🏻‍💻💻🖥⌨🖱🌐 Backend
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,php,cpp,c,java" />
@@ -54,10 +54,12 @@
 
 ---
 
+## 🛢️ Database
+
 ## 🗄️ Database
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase" />
 </p>
 
 <p align="left">
