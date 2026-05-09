@@ -46,7 +46,7 @@
 
 ---
 
-## ⚙️ Backend
+## 🖥⌨🖱 Backend
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,php,cpp,c,java" />
