@@ -16,7 +16,7 @@
 
 ---
 
-# 🧑‍💻 About Me
+#  About Me
 
 - 🌍 Based in **Kalasin, Thailand**
 - 💻 Passionate about Frontend & Backend Development
@@ -36,7 +36,6 @@
 
 ---
 
-# 👨‍💻 Tech Stack
 
 ## 👨🏻‍💻💻🌐 Frontend
 
@@ -62,8 +61,12 @@
 
 
 
+<!-- 💻 Operating System & Developer Tools -->
+
+## 🖥️ Operating System 
+
 <p align="left">
-<img src="https://skillicons.dev/icons?i=docker,linux,ubuntu,vscode,visualstudio,pycharm,idea,clion,git,github" />
+<img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,docker,vscode,visualstudio,pycharm,idea,clion,git,github" />
 </p>
 
 ---
