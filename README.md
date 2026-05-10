@@ -60,8 +60,10 @@
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase" />
 </p>
 
+
+
 <p align="left">
-<img src="https://skillicons.dev/icons?i=docker,linux,ubuntu,vscode,git,github," />
+<img src="https://skillicons.dev/icons?i=docker,linux,ubuntu,vscode,visualstudio,pycharm,idea,clion,git,github" />
 </p>
 
 ---
