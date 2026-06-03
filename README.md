@@ -20,7 +20,7 @@
 
 🌍 Based in Kalasin, Thailand
 
-💻 Passionate about Frontend Development, Backend Development, and Web Application Design
+💻 Passionate about Frontend Development, Backend Development, 
 
 🎓 Bachelor's Degree in Computer Engineering
 Kalasin University
