@@ -20,8 +20,6 @@
 
 - 🌍 Based in **Kalasin, Thailand**
 - 💻 Passionate about Frontend & Backend Development
-- 🎨 Digital Creator using Adobe Tools
-- 📚 Currently learning modern web technologies
 - 📫 Contact: **phimpanitsiwakorn@gmail.com**
 
 ---
