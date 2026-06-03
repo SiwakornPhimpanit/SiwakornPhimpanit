@@ -18,9 +18,9 @@
 
 #  About Me
 
-- 🌍 Based in **Kalasin, Thailand**
-- 💻 Passionate about Frontend & Backend Development
-- 📫 Contact: **phimpanitsiwakorn@gmail.com**
+ 🌍 Based in **Kalasin, Thailand**
+ 💻 Passionate about Frontend & Backend Development
+ 📫 Contact: **phimpanitsiwakorn@gmail.com**
 
 ---
 
