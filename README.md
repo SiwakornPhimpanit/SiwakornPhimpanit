@@ -18,11 +18,19 @@
 
 #  About Me
 
- 🌍 Based in **Kalasin, Thailand**
- 💻 Passionate about Frontend & Backend Development
- 📫 Contact: **phimpanitsiwakorn@gmail.com**
+🌍 Based in Kalasin, Thailand
 
----
+💻 Passionate about Frontend Development, Backend Development, and Web Application Design
+
+🎓 Bachelor's Degree in Computer Engineering
+Kalasin University
+
+🔌 Higher Vocational Certificate in Electronics
+Kalasin Technical College
+
+
+
+
 
 # 👨‍💻 Currently Learning
 
