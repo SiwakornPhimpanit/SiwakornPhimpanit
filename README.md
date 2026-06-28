@@ -73,14 +73,8 @@ Kalasin Technical College
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,docker,vscode,visualstudio,pycharm,idea,clion,git,github,obsidian,postman" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=cursor" />
-  <img src="https://img.shields.io/badge/Git%20Bash-121011?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Antigravity%20IDE-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Devin-0A0A0A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Bruno-FF6C37?style=for-the-badge&logo=bruno&logoColor=white" />
+  <img src="https://raw.githubusercontent.com/usebruno/bruno/main/assets/images/logo-transparent.png" alt="Bruno" width="48" height="48" />
 </p>
-
 
 
 
