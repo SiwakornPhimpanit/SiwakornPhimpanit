@@ -16,11 +16,11 @@
 
 ---
 
-#  About Me
+# About Me
 
 🌍 Based in Kalasin, Thailand
 
-💻 Passionate about Frontend Development, Backend Development, 
+💻 Passionate about Frontend Development, Backend Development
 
 🎓 Bachelor's Degree in Computer Engineering
 Kalasin University
@@ -28,25 +28,24 @@ Kalasin University
 🔌 Higher Vocational Certificate in Electronics
 Kalasin Technical College
 
-
-
-
+---
 
 # 👨‍💻 Currently Learning
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,php,cpp,c,java" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,go,html,css,php,cpp,c,java" />
 
 </p>
 
 ---
 
-
 ## 👨🏻‍💻💻🌐 Frontend
 
 <p align="left">
+
 <img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap,html,css,js,ts,nextjs,nodejs" />
+
 </p>
 
 ---
@@ -54,7 +53,9 @@ Kalasin Technical College
 ## 👨🏻‍💻💻🖥⌨🖱🌐 Backend
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,php,cpp,c,java" />
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,go,php,cpp,c,java" />
+
 </p>
 
 ---
@@ -62,46 +63,34 @@ Kalasin Technical College
 ## 🛢️ Database
 
 <p align="left">
+
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase" />
+
 </p>
-
-
-
-<!-- 💻 Operating System & Developer Tools -->
-
-## 🖥️ Operating System 
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,docker,vscode,visualstudio,pycharm,idea,clion,git,github,obsidian,postman" />
-  <img src="https://raw.githubusercontent.com/usebruno/bruno/main/assets/images/logo-transparent.png" alt="Bruno" width="48" height="48" />
-</p>
-
-
-
-
-
-
-
-
-## 🎨 Creative Tools
-
-<img src="https://skillicons.dev/icons?i=ps,ai,ae,pr,figma" />
-
-
-
-
-
-</div>
 
 ---
 
+<!-- 💻 Operating System & Developer Tools -->
 
+## 🖥️ Operating System & Developer Tools
 
+<p align="left">
 
+<img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,docker,vscode,visualstudio,pycharm,idea,clion,git,github,obsidian,postman" />
 
+<img src="https://raw.githubusercontent.com/usebruno/bruno/main/assets/images/logo-transparent.png" alt="Bruno" width="48" height="48" />
 
+</p>
 
-</div>
+---
+
+## 🎨 Creative Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=ps,ai,ae,pr,figma" />
+
+</p>
 
 ---
 
@@ -109,7 +98,7 @@ Kalasin Technical College
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/SiwakornPhimpanit">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -119,12 +108,10 @@ Kalasin Technical College
 
 </div>
 
-</div>
-
 ---
 
 <div align="center">
 
- ✨ Thank you and for following ✨
+✨ Thank you for following ✨
 
 </div>
