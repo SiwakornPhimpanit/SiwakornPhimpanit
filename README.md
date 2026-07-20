@@ -20,7 +20,7 @@
 
 🌍 Based in Kalasin, Thailand
 
-💻 Passionate about Frontend Development, Backend Development
+💻 Passionate about Frontend Development and Backend Development
 
 🎓 Bachelor's Degree in Computer Engineering
 Kalasin University
@@ -34,7 +34,7 @@ Kalasin Technical College
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,go,html,css,php,cpp,c,java" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,go,nextjs,html,css,php,cpp,c,java" />
 
 </p>
 
@@ -44,7 +44,7 @@ Kalasin Technical College
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap,html,css,js,ts,nextjs,nodejs" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,vite,tailwind,bootstrap,html,css,js,ts" />
 
 </p>
 
@@ -54,7 +54,7 @@ Kalasin Technical College
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,go,php,cpp,c,java" />
+<img src="https://skillicons.dev/icons?i=nodejs,nextjs,python,js,ts,go,php,cpp,c,java" />
 
 </p>
 
@@ -115,3 +115,4 @@ Kalasin Technical College
 ✨ Thank you for following ✨
 
 </div>
+
