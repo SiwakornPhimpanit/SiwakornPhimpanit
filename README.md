@@ -87,9 +87,6 @@ Kalasin Technical College
 
 <img src="https://skillicons.dev/icons?i=ps,ai,ae,pr,figma" />
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-</p>
 
 
 
