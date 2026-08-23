@@ -75,14 +75,6 @@ Kalasin Technical College
 <!-- 💻 Operating System & Developer Tools -->
 
 
-## 🖥️ Operating System & Developer Tools
-
-<p align="left">
-  <img
-    src="https://skillicons.dev/icons?i=windows,linux,ubuntu,docker,vscode,visualstudio,pycharm,idea,clion,git,github,obsidian,postman"
-    alt="Operating Systems and Developer Tools"
-  />
-</p>
 
 ## 🖥️ Operating System & Developer Tools
 
