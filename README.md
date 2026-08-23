@@ -60,15 +60,14 @@ Kalasin Technical College
 
 ---
 
+
+<p align="left">
+
 ## 🛢️ Database
 
 <p align="left">
-## 🛢️ Database
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,,sqlite" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,sqlite" />
 </p>
-
 </p>
 
 ---
