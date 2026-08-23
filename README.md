@@ -74,17 +74,32 @@ Kalasin Technical College
 
 <!-- 💻 Operating System & Developer Tools -->
 
+
 ## 🖥️ Operating System & Developer Tools
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,docker,vscode,visualstudio,pycharm,idea,clion,git,github,obsidian,postman" />
-
-<img src="https://raw.githubusercontent.com/usebruno/bruno/main/assets/images/logo-transparent.png" alt="Bruno" width="48" height="48" />
-
+  <img
+    src="https://skillicons.dev/icons?i=windows,linux,ubuntu,docker,vscode,visualstudio,pycharm,idea,clion,git,github,obsidian,postman"
+    alt="Operating Systems and Developer Tools"
+  />
 </p>
 
----
+## 🖥️ Operating System & Developer Tools
+
+<p align="left">
+  <img
+    src="https://skillicons.dev/icons?i=windows,linux,ubuntu,docker,vscode,visualstudio,pycharm,idea,clion,git,github,obsidian,postman"
+    alt="Operating Systems and Developer Tools"
+  />
+</p>
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/usebruno/bruno/main/assets/images/logo-transparent.png" alt="Bruno" width="48" height="48" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/zedindustries" alt="Zed" width="48" height="48" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/cursor" alt="Cursor" width="48" height="48" />
+</p>
 
 ## 🎨 Creative Tools
 
@@ -94,7 +109,7 @@ Kalasin Technical College
 
 </p>
 
----
+
 
 # 🌐 Discord & GitHub
 
