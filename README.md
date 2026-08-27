@@ -83,7 +83,13 @@ Kalasin Technical College
     src="https://skillicons.dev/icons?i=windows,linux,ubuntu,docker,vscode,visualstudio,pycharm,idea,clion,git,github,obsidian,postman"
     alt="Operating Systems and Developer Tools"
   />
-</p>
+  <img
+    src="https://cdn.simpleicons.org/gnometerminal/241F31"
+    alt="Command Prompt"
+    width="48"
+    height="48"
+  />
+ 
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/usebruno/bruno/main/assets/images/logo-transparent.png" alt="Bruno" width="48" height="48" />
