@@ -78,18 +78,21 @@ Kalasin Technical College
 
 ## 🖥️ Operating System & Developer Tools
 
+<h3 align="left">Operating Systems & Developer Tools</h3>
+
 <p align="left">
   <img
-    src="https://skillicons.dev/icons?i=windows,linux,ubuntu,docker,vscode,visualstudio,pycharm,idea,clion,git,github,obsidian,postman"
+    src="https://skillicons.dev/icons?i=windows,powershell,linux,ubuntu,docker,vscode,visualstudio,pycharm,idea,clion,git,github,obsidian,postman"
     alt="Operating Systems and Developer Tools"
   />
   <img
     src="https://cdn.simpleicons.org/gnometerminal/241F31"
     alt="Command Prompt"
+    title="Command Prompt"
     width="48"
     height="48"
   />
- 
+</p>
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/usebruno/bruno/main/assets/images/logo-transparent.png" alt="Bruno" width="48" height="48" />
