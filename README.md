@@ -126,11 +126,10 @@ Kalasin Technical College
 
 </div>
 
----
 
 <div align="center">
 
-✨ Thank you for following ✨
+✨ Thank you for following 👨‍💻💻🙂😊🙏  ✨
 
 </div>
 
