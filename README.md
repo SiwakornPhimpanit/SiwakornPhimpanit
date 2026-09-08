@@ -34,7 +34,7 @@ Kalasin Technical College
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,nextjs,go,html,css,php,cpp,c,java" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nextjs,python,js,ts,go,php,cpp,c,cs,java" />
 
 </p>
 
