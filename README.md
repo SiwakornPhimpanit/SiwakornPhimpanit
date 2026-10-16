@@ -50,8 +50,6 @@ Kalasin Technical College
 
 ---
 
-## 👨🏻‍💻💻🖥⌨🖱🌐 Backend
-
 <p align="left">
 
 ## 👨🏻‍💻💻🖥⌨🖱🌐 Backend
