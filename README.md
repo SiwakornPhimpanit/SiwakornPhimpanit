@@ -124,15 +124,28 @@ Kalasin Technical College
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<div>
+  <a href="https://discord.com/users/stampgamming" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
+      alt="Discord"
+    />
+  </a>
 
-<a href="https://discord.com/users/stampgamming" target="_blank">
-  <img
-    src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
-    alt="Discord"
-  />
-</a>
+  <a href="https://www.instagram.com/s.s2001098/" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      alt="Instagram"
+    />
+  </a>
+
+  <a href="https://www.facebook.com/siwakorn.phimpanit?locale=th_TH" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white"
+      alt="Facebook"
+    />
+  </a>
 </div>
-
 
 <div align="center">
 
