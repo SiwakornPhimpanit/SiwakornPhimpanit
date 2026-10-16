@@ -52,7 +52,7 @@ Kalasin Technical College
 
 <p align="left">
 
-## 👨🏻‍💻💻🖥⌨🖱🌐 Backend
+## 👨🏻‍💻💻📱🌐 Backend
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,nextjs,python,js,ts,go,php,cpp,c,cs,java" />
