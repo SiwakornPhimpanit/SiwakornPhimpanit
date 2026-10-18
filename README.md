@@ -1,14 +1,6 @@
 
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"/>
-
-# Hi, I'm Siwakorn Phimpanit👨🏻‍💻💻
-
-### Software Developer • Frontend & Backend • Creator
-
-<img src="https://komarev.com/ghpvc/?username=SiwakornPhimpanit&label=Profile%20Views&color=7F77DD&style=flat" />
-
+  <h1>Hi, I'm Siwakorn Phimpanit 👨🏻‍💻 💻</h1>
+  <h3>Software Developer  Frontend & Backend  Creator</h3>
 </div>
 # About Me
 
@@ -16,11 +8,9 @@
 
 💻 Passionate about Frontend Development and Backend Development
 
-🎓 Bachelor's Degree in Computer Engineering
-Kalasin University
+🎓 Bachelor's Degree in Computer Engineering, Kalasin University
 
-🔌 Higher Vocational Certificate in Electronics
-Kalasin Technical College
+🔌 Higher Vocational Certificate in Electronics, Kalasin Technical College
 
 ---
 
