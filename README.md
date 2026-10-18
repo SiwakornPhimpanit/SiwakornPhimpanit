@@ -116,26 +116,22 @@ Kalasin Technical College
 
 
 
-# 🌐 Discord & GitHub
+# 🌐   Social   Discord  GitHub instagram tiktok & FaceBook
+
+
 
 <div align="center">
-
-<a href="https://github.com/SiwakornPhimpanit">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<div>
-  <a href="https://discord.com/users/stampgamming" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
-      alt="Discord"
-    />
-  </a>
-
   <a href="https://www.instagram.com/s.s2001098/" target="_blank" rel="noopener noreferrer">
     <img
       src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
       alt="Instagram"
+    />
+  </a>
+
+  <a href="https://www.tiktok.com/@stampsiwakorn084" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"
+      alt="TikTok"
     />
   </a>
 
@@ -145,9 +141,20 @@ Kalasin Technical College
       alt="Facebook"
     />
   </a>
+
+  <a href="https://github.com/SiwakornPhimpanit" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
 </div>
 
 <div align="center">
+
+
+
+
 
 ✨ Thank you for following 👨‍💻💻🙂😊🙏  ✨
 
