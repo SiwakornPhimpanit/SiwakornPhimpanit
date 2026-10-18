@@ -2,8 +2,6 @@
   <h1>Hi, I'm Siwakorn Phimpanit 👨🏻‍💻 💻</h1>
   <h3>Software Developer  Frontend & Backend  Creator</h3>
 </div>
-# About Me
-
 🌍 Based in Kalasin, Thailand
 
 💻 Passionate about Frontend Development and Backend Development
