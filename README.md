@@ -10,9 +10,6 @@
 <img src="https://komarev.com/ghpvc/?username=SiwakornPhimpanit&label=Profile%20Views&color=7F77DD&style=flat" />
 
 </div>
-
----
-
 # About Me
 
 🌍 Based in Kalasin, Thailand
